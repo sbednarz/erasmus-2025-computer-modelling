@@ -1,6 +1,10 @@
 #### Computer modelling in chemical technology 2025
 
-#[:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2025-computer-modelling/main)
+
+
+[:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2025-computer-modelling/main)
+
+
 
 #### Why Python?
 
