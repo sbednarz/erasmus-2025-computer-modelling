@@ -1,14 +1,14 @@
-# Computer modelling in chemical technology 2025
+#### Computer modelling in chemical technology 2025
 
-[:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2025-computer-modelling/main)
+#[:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2025-computer-modelling/main)
 
-### Why Python?
+#### Why Python?
 
 *  Free, open-source, high-level, general-purpose scripting programming language
 *  Mature (33 yo), well documented, huge users community, very popular
 *  Main applications: education, scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
 
-### List of the course units:
+#### List of the course units:
 
 * [1. Python basics](01/)
 * [2. Mass balance under steady-state conditions](02/)
@@ -16,7 +16,7 @@
 * [4. Chemical kinetics](04/)
 
 
-### Usefull links:
+#### Usefull links:
 
 * [Python installers](https://www.anaconda.com/products/distribution)
 
